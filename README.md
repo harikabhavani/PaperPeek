@@ -10,10 +10,11 @@ A two-step retrieval process enhancing search precision.
 N-gram analysis for refined query processing.
 A ranking system prioritizing documents by relevance and citation impact.
 
-Installation
-Prerequisites
-Python 3.x
-Pip package manager
+## Setting Up the Project
+
+To run this project, you will need to install the necessary Python packages. 
+These packages are listed in the `requirements.txt` file. 
+pip install -r requirements.txt
 
 Contributing
 We welcome contributions to PaperPeek! If you have suggestions for improvements or new features, feel free to fork the repository and submit a pull request.
